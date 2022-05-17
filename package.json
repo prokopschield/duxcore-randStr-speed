@@ -1,0 +1,16 @@
+{
+  "name": "@prokopschield/duxcore-randstr-speed",
+  "version": "0.0.0",
+  "main": "lib/index.js",
+  "bin": {
+    "duxcore-randStr-speed": "lib/cli.js"
+  },
+  "scripts": {
+    "start": "node lib/cli"
+  },
+  "author": "Prokop Schield",
+  "devDependencies": {
+    "@types/node": ">=14"
+  },
+  "license": "GPL-3.0-or-later"
+}
